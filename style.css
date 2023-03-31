@@ -4,3 +4,17 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+header{
+    text-align: center;
+}
+header span{
+    font-family: "BABAPRO FONT";
+    font-size: 50px;
+}
+
+header .orange{
+    color: orange;
+}
+header .blue{
+    color: blue;
+}
