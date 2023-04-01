@@ -1,0 +1,15 @@
+@media (max-width: 1000px) {
+    header span{
+        font-family: "BABAPRO FONT";
+        font-size: 3em;
+    }
+    
+}
+
+@media (max-width: 600px) {
+    header span{
+        font-family: "BABAPRO FONT";
+        font-size: 2em;
+    }
+    
+}
